@@ -1,0 +1,16 @@
+*.gem
+*.rbc
+*.swp
+*.swo
+
+## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+## Environment normalisation:
+/.bundle/
+/lib/bundler/man/
+
+
