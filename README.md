@@ -1,9 +1,9 @@
 # Guides
 This are the guides that we use internally to develop our own apps. 
 
-* [Ruby](https://github.com/InformaticaDalai/guides/blob/ruby-style-guide/ruby.md)
+* [Ruby](https://github.com/InformaticaDalai/guides/blob/master/ruby.md)
 * [Rails]()
-* [Git]()
+* [Git](https://github.com/InformaticaDalai/guides/blob/master/git.md)
 * [Javascript]()
 
 ## Hide level guideliness
